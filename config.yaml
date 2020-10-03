@@ -1,0 +1,91 @@
+baseURL: "https://nibragimov.github.io"
+languageCode: "en-us"
+title: Nodirbek Ibragimov
+theme: "hugo-PaperMod"
+paginate: 5
+languageCode: en
+DefaultContentLanguage: en
+enableInlineShortcodes: true
+theme: hugo-PaperMod
+
+params:
+  description: 'Theme PaperMod'
+  author: Author
+  ShowReadingTime: false
+  contentTypeName: posts
+  defaultTheme: auto
+  ShowShareButtons: false
+  profileMode:
+    enabled: true
+    title: Nodirbek Ibragimov
+    imageUrl: /images/ni.jpg
+    imageTitle: Nodir's image
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    
+    - name: github
+      url: 'https://github.com/nibragimov'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/nibragimov/'
+    - name: telegram
+      url: 'https://t.me/N0d1rbek1'
+
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 1
+
+menu:
+  main:
+    - name: Blog
+      url: /blog/
+      weight: 5
+    - name: About
+      url: /about/
+      weight: 10
+    - name: Skills
+      url: /skills/
+      weight: 15
+    - name: Resume
+      url: resume.pdf
+      weight: 20
+
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
+    
+    
+        
+
+
