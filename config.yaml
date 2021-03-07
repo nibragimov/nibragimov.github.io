@@ -1,12 +1,12 @@
 baseURL: "https://nibragimov.github.io"
 languageCode: "en-us"
 title: Nodirbek Ibragimov
-theme: "hugo-PaperMod"
+theme: "PaperMod"
 paginate: 5
 languageCode: en
 DefaultContentLanguage: en
 enableInlineShortcodes: true
-theme: hugo-PaperMod
+theme: PaperMod
 
 params:
   description: 'Theme PaperMod'
@@ -18,7 +18,7 @@ params:
   profileMode:
     enabled: true
     title: Nodirbek Ibragimov
-    imageUrl: /images/ni.jpg
+    imageUrl: /images/ni2.jpg
     imageTitle: Nodir's image
 
   homeInfoParams:
@@ -42,9 +42,9 @@ markup:
 
 menu:
   main:
-    - name: Blog
-      url: /blog/
-      weight: 5
+    # - name: Blog
+    #   url: /blog/
+    #   weight: 5
     - name: About
       url: /about/
       weight: 10

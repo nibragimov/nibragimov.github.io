@@ -3,5 +3,5 @@ title = "Skills"
 layout = "single"
 hideMeta = "true"
 +++
-**C++, Java, JavaScript, PHP, MongoDB (Mongoose), MySQL, Git**\
-C, JSP, HTML/CSS, Bootstrap, React.js, Express.js.
+**C++, Java, JavaScript, Node.js**\
+C, Python, HTML/CSS, Bootstrap, MongoDB (Mongoose), MySQL, Git, React.js, Express.js, Django, Flutter.
