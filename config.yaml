@@ -1,7 +1,7 @@
 baseURL: "https://nibragimov.github.io"
 languageCode: "en-us"
 title: Nodirbek Ibragimov
-theme: "PaperMod"
+theme: PaperMod
 paginate: 5
 languageCode: en
 DefaultContentLanguage: en
